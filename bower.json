@@ -1,0 +1,18 @@
+{
+  "name": "arch2park",
+  "homepage": "https://github.com/OpenDataSTL/arch2park",
+  "authors": [
+    "Nehemiah I. Dacres <vivacarlie@gmail.com>"
+  ],
+  "description": "datasets gathered by washing university",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,2 +1,4 @@
 # arch2park
-datasets gathered by washing university
+Datasets gathered by Washington University
+
+
